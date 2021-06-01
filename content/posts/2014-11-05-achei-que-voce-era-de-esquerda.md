@@ -1,0 +1,90 @@
+---
+title: Achei que você era de esquerda
+author: Gustavo Noronha
+type: post
+date: 2014-11-05T23:47:54+00:00
+url: /2014/11/05/achei-que-voce-era-de-esquerda/
+categories:
+  - Aécio
+  - Debate político
+  - Dilma
+  - Eleições
+  - Energia
+  - Governo Dilma
+  - Governo FHC
+  - Governo Lula
+  - Marina
+  - Uncategorized
+
+---
+Várias pessoas que me viram defender o voto em Aécio no segundo turno me disseram alguma variação de &#8220;achei que você fosse de esquerda&#8221;. E sou. [Votei em Eduardo Jorge no primeiro turno][1], por ter na minha opinião o melhor conjunto de propostas e decidi, assim como ele, que o melhor candidato no segundo turno era Aécio. Se quiser conhecer minhas posições em detalhes, [escrevi sobre aqui][2].
+
+Uma das minhas missões nessa eleição foi tentar desfazer essa visão muito arraigada no discurso político do meu círculo de que o PSDB seria um partido de direita ou, pelo menos, à direita do PT o suficiente para que seja uma decisão óbvia votar no PT. [Olhando para a história][3] podemos ver que o PSDB, assim como o PT, tem sua origem na esquerda. Foram inclusive aliados em algumas eleições, antes de o PT se recusar a fazer parte do governo Itamar Franco e escolher o PSDB como adversário em 1994. O PT esteve, sim, à esquerda do PSDB, mas assim como o PSDB, [pendeu para a direita em nome da viabilidade e da governabilidade, ocupando o centro][4], para se tornar situação.
+
+Há várias concepções equivocadas relacionadas ao PSDB e em particular ao governo FHC, que eu venho tentando ajudar a desfazer. Isso porque eu acho que é danoso para a democracia a noção de que o PT estará à esquerda do PSDB independente do que faça. Não importa que Dilma tenha sido bem pior que FHC em demarcações e questões indígenas, em reforma agrária, que esteja sendo vista como mandatária do [pior governo da história para o meio ambiente][5]. Por ser do PT está automaticamente perdoada por uma parte da esquerda.
+
+Desfazer essa concepção me parece essencial para que tanto PSDB quanto PT tornem a fazer defesas concretas mais à esquerda: o PT não pende para a esquerda porque não precisa, o PSDB não pende para a esquerda porque não adianta: mesmo quando tem propostas mais progressistas, como foi o caso na questão LGBT esse ano, está previamente condenado a ser &#8220;menos confiável&#8221; ou qualquer coisa do tipo, mesmo com 4 anos de mandato concretos de retrocessos com Dilma. O [mesmo vale para Marina][6], inclusive, e antes dela para Eduardo Campos, mostrando que não é só o preconceito contra o PSDB o problema, mas a defesa incondicional do PT.
+
+Mesmo o fato de que políticas com foco social foram de fato adotadas por governos do PSDB geralmente não são suficientes para demover essa restrição. Em um texto, por exemplo, demonstrei como [o aumento real de salários e investimentos sociais foram também características do governo FHC][7]. Basta olhar o índice de GINI para ver que a queda da desigualdade vem desde o governo FHC, também, embora somente a partir do segundo mandato, depois que o pior tinha passado na estabilização da economia.
+
+Também tentei mostrar como o [PROER, que a campanha Dilma comparou injustamente com o Bolsa Família][8], foi uma reforma legislativa que impediu que a sociedade pagasse pelas estripulias dos banqueiros, fazendo com que eles pagassem com seus próprios bens por rombos de caixa. Há inúmeras críticas a serem feitas a FHC e eu tenho muitas, mas é difícil achar reforma mais focada em defender o interesse público contra os interesses privados dos ricos banqueiros. Há quem diga que quem vota no PSDB é porque não estudou história. Eu acho que quem só vê defeitos no governo FHC e o acusa de ser contra os pobres é que provavelmente precisa se desvencilhar dos argumentos rasos e estudar o que foi a década de 90.
+
+Do outro lado, tentei mostrar que Lula manteve as políticas básicas do segundo mandato FHC criticadas duramente na campanha de Dilma, inclusive com subida de juros para atingir sua ambiciosa (para a época) meta de inflação de 4,5%. Há vários defensores e integrantes dos governos petistas que podem ser lidos a esse respeito, como Palocci e um dos cotados a Ministro da Fazenda para o segundo mandato Dilma, Nelson Barbosa, que escreveu &#8220;[A inflexão do governo Lula: política econômica, crescimento e distribuição de renda][9]&#8220;. Mais importante ainda, tentei mostrar que Dilma não representa continuidade das boas políticas que nos regeram de 2001 a 2010 e que a política de campeões nacionais, iniciada quando Dilma ganhou preponderância no governo Lula, essa sim foi grande geradora de desigualdades e privilégios para os ricos a um custo que ninguém conhece bem.
+
+Não é a toa que eu já previa que o governo Dilma seria ruim e votei nulo no segundo turno em 2010. Junto com a nova matriz econômica, que veio com o novo governo, e os truques contábeis que se aprofundaram de forma significativa, essa política de financiamento barato de grandes empresas levou a um retrocesso enorme. O primeiro governo Dilma já foi capaz até mesmo de [aumentar a miséria][10], que havia [prometido erradicar][11], como mostrou estudo do IPEA cuja publicação foi atrasada para que só acontecesse após as eleiçoes. O governo chegou a mudar o _slogan_ do governo federal para &#8220;País rico é país sem pobreza&#8221;, mas isso adiantou pouco.
+
+Na economia, Dilma prometeu que faria uma revolução na indústria, aumentando investimentos e acelerando o crescimento. Sua obsessão pela indústria a levou a adotar medidas temerárias desejadas pela FIESP, como a redução exagerada dos juros em 2012, sendo obrigada a aumentá-los depois e ficando como a primeira presidente a entregar taxa de juros e inflação piores do que pegou. A [redução na base da canetada das tarifas de energia][12], que gerou um [custo que já chega a 105 bilhões mas ainda pode crescer][13] foi outra medida tomada pela mesma razão. Redução que já foi anulada pelos aumentos desde então. Fez também um controle ferrenho do câmbio, via _swaps_ cambiais feitos constantemente pelo BC. Por fim, entregou um péssimo nível de crescimento, [especialmente no último ano de mandato][14], colocando a culpa numa [crise que já não existe][15], visto que o mundo já se recupera.
+
+Foram concedidas desonerações para setores específicos escolhidos a dedo, sem critério claro, que ajudaram a levar [ao primeiro déficit fiscal da série histórica][16]. O nível de investimento [fez foi cair para 16,5%][17]. A falta de continuidade no sucesso das políticas, tanto econômicas quanto sociais, fica clara na tática de sempre falar durante a campanha dos governos Lula e Dilma juntos, para esconder a piora trazida pelos quatro anos de Dilma. Nada do que fez deu certo e nem sou só eu que estou falando, até [alguns petistas importante reconhecem quando não estão em campanha][18].
+
+Alguns amigos chegaram a me dizer que era muito irônico eu que votei no PT e trabalhei em um dos famosos cargos de confiança no governo Lula estar me comportando como anti-petista. Não entendo que motivos dei para acreditarem que sou anti alguma coisa. Não sou anti-petista, voto e votarei no PT sempre que achar que é a melhor opção. Votei pela primeira vez em 2002 e foi no PT, o PT que tinha se aproximado da posição do PSDB e aceitado deixar de lado a agenda econômica que o PSOL ainda defende, o PT que acabou abraçando os programas iniciados na era FHC e levando-os a novos patamares. Além disso, gosto de muitos petistas, queria até importar o Haddad pra ser prefeito de BH. Haddad que vem sendo atrapalhado [pelas políticas pró-carro da Dilma][19], diga-se de passagem.
+
+Mas também não sou anti-psdbista, como deve ficar óbvio. Não tenho nenhuma dívida com o PT e me recuso a apoiar governos que eu considero retrocessos, seja de que partido for. Acompanho de perto o governo federal há mais de uma década e li tudo que pude sobre a história dos anos 90, que como criança e adolescente vivi com todas as suas esperanças e decepções, com todos os seus baques e sucessos, junto com minha irmã, como filhos de mãe viúva professora do estado. Minha consciência e meu conhecimento me deram bem claro o caminho, desde cedo: Eduardo Jorge representou o que houve de melhor em termos de propostas, no todo, e foi com ele que fui de mãos dadas ao primeiro turno, mas entre Marina ou Aécio e Dilma, não tive a menor dúvida sobre que caminho seguir.
+
+A campanha só fez aumentar essa percepção. Muitos amigos meus votaram Dilma com ótimos motivos e comportamento republicano e democrático. No entanto, nunca vi a sujeira e a mentira tão presentes em uma campanha oficial petista. Foi algo comparável a Serra em 2010, com seu uso covarde da questão do aborto. A campanha de demonização de Marina, acusando-a de querer criar um quarto Poder da República a ser entregue aos bancos para tirar comida das mesas dos brasileiros, criando interpretações distorcidas das propostas da candidata, vai precisar de muito esforço para ser superada.
+
+A constante chantagem de que os adversários acabariam com programas sociais, a retórica mentirosa de que inflação baixa significaria 15% de desemprego, baseada numa interpretação superada e distorcida da [curva de Phillips][20], quando o próprio governo Lula serve de exemplo para desprovar tamanho disparate. Tudo isso só serve para criar tabus em tornos de temas que não merecem ser tabus, como foi feito com o próprio conceito de privatização.
+
+Não quero com isso dizer que as campanhas de Marina e Aécio foram límpidas, não foram. Houve muita retórica, muito exagero, muita mentira. Mas nada há nas campanhas oficiais de ambos que se comparasse à cara de pau da campanha oficial petista.
+
+Para além das campanhas oficiais, aí sim, a revista Veja, que é anti-petista desde há muito, cometeu novos recordes de baixeza, especialmente com o vazamento de uma suposta acusação pessoal a Lula e Dilma, vinda da delação do doleiro Youssef, adiantando a distribuição da revista para que chegasse a mão de eleitores com maior antecedência. Em termos de mídias, a Veja é hors concours em ter feito a mais baixa campanha contra o PT, como de costume.
+
+No entanto, os inúmeros blogs e sites pseudo-jornalísticos chapa-branca mantidos com patrocínio de estatais, como os de Paulo Henrique Amorim, Brasil 247, Plantão Brasil, Pragmatismo Político, não pouparam esforços para inventar mentiras e distorcer dados. Divulgaram por meses a fio como se fosse atual uma ação no TJ MG sobre um suposto desvio de 4,3 bilhões da saúde em Minas. Ação que já estava arquivada por questões técnicas &#8211; a procuradora que a moveu não tinha competência para movê-la. O próprio TCE fez com o governo Anastasia, sucessor de Aécio, um termo de ajustamento de conduta e dizia claramente que a padronização do que poderia ser considerado saúde só veio a existir em 2011, com a regulamentação da emenda 29, o que foi consistentemente ignorado pelo pseudo jornalismo desses sites.
+
+Do lado da Marina, os chapa-branca trabalharam fortemente em contribuir com a campanha oficial para pintar Marina como a candidata dos banqueiros, criando uma imagem distorcida de Neca Setúbal, reconhecida educadora que contribuiu inclusive para o programa de governo do petista Haddad em São Paulo. Diziam que por ser dona de uma fatia do Itaú só podia ser banqueira interessada exclusivamente no lucro. E por ter doado como pessoa física para a criação de um [instituto de defesa do meio ambiente][21] por Marina Silva, tinha comprado seu lugar no governo.
+
+No limite da falta de noção, criaram um suposto economista alemão chamado Kurt Neueur que não entendia como Dilma estava com chances de perder. Verificou-se que se tratava de um comentário em um site de notícias alemão, de uma conta criada dias antes. Quando os absurdos ataques a nordestinos começaram, descobriu-se que perfis fake usados para engrossar likes de páginas petistas foram usados para criar posts falsos, que podiam ser explorados pela campanha. E o mais triste foi saber que tenho muitos amigos que acham que tudo isso &#8220;é do jogo&#8221;…
+
+Depois de ter dito tudo isso, você talvez tenha estranhado eu não ter falado de corrupção. Concordo com uma amiga minha que votou Dilma: corrupção é questão estrutural, endêmica. Por mais que o PT tenha feito algo absurdo no governo, não sou ingênuo de achar que um governo Marina ou Aécio teriam menos corrupção. É certo que não acredito, como alguns, que Dirceu e Genoíno são heróis da nação, mas basta olhar para o fato de que o mensalão começou em Minas, numa campanha do PSDB para ver que a coisa é sistêmica. Não duvido que se investigarem a fundo vão achar PSDB no Petrolão também, como acharam PT e PSB.
+
+Cabe ressaltar aqui que não acredito que seja o PSDB que tem que responder por quê o mensalão do PSDB não foi julgado até hoje: ele foi descoberto no governo Lula, em razão das investigações do mensalão do PT. O processo foi desmembrado por decisão do STF, majoritariamente indicado por governos do PT. A parte do STF estava pronta para ser julgada logo após o mensalão do PT e foi o mesmo STF majoritariamente indicado por governos do PT que decidiu remeter à primeira instância dado que não havia mais foro privilegiado com a renúncia do Azeredo.
+
+Isso não isenta o PSDB dos casos de corrupção, tanto do mensalão quanto do caso do metrô em SP, mas é óbvio que quem tem que responder é o STF. Como deve ficar claro, não falo de corrupção porque não existe decidir quem é pior nesse caso. Além disso, acredito que a escolha de um projeto político tem um impacto muito maior no que o país será no futuro do que um caso de corrupção, mesmo que seja grande. Compare os 10 bilhões descobertos até agora no petrolão aos 105 bilhões de rombo já apurado no setor de energia, por exemplo.
+
+Enfim, estou super aliviado com o fim da eleição. Se engana quem acha que eu estou triste! Muito menos quero sair do país: trabalho para uma empresa de fora que tem programa de relocação, poderia fazê-lo se quisesse. Mas me recuso a deixar o país, quero é ficar aqui para ajudar a melhorar, dizia isso para minha mãe desde criança. Defendi o projeto que eu acredito que teria sido o mais capaz de colocar o país de volta no caminho do crescimento, da justiça social, da erradicação da miséria. Vi que com essa campanha Aécio conseguiu dar um passo importante para nossa sociedade, de começar um desagravo do ex-presidente FHC e de recolocar o PSDB como um partido com projeto crível para o país, o que nos dá alternativas. Fico também feliz de 
+
+Por outro lado, fico muito mais tranquilo sabendo que quem vai ter que descascar os abacaxis plantados nesses quatro anos de governo, com a nova matriz econômica, a política de campeãs nacionais, as desonerações no varejo e a desestabilização da área energética será a própria presidenta que os plantou. Não vou deixar de debater, de apoiar o que achar bom e de criticar o que achar errado. Espero que possamos fazer isso de forma civilizada e com o alto nível que presenciei nos debates com amigos e não com a sujeira das campanhas, imprensa panfletária e sites chapa-branca.
+
+Não vamos desistir do Brasil!
+
+ [1]: https://politi.kov.blog.br/2014/09/23/e-o-voto-vai-para/ "E o voto vai para…"
+ [2]: https://politi.kov.blog.br/2013/06/12/quem-sou-eu-e-o-que-penso/ "Quem sou eu e o que penso"
+ [3]: http://www.psdb.org.br/psdb/historia/ "História do PSDB"
+ [4]: http://oglobo.globo.com/brasil/o-pt-ocupou-centro-empurrando-psdb-para-direita-diz-cientista-politico-14418218 "'O PT ocupou o centro, empurrando o PSDB para a direita’, diz cientista político"
+ [5]: http://thinkprogress.org/climate/2014/10/30/3585968/brazilian-elections-bad-news-climate/ "Why The Result Of Brazil’s Elections Could Be Bad News For The Climate"
+ [6]: https://politi.kov.blog.br/2014/09/09/um-conto-de-dois-recuos/ "Um conto de dois recuos"
+ [7]: https://politi.kov.blog.br/2014/09/21/guia-contra-engabelacao-no-discurso-politico-datas-especificas/ "Guia contra engabelação no discurso político: antes e depois"
+ [8]: https://politi.kov.blog.br/2014/10/12/o-que-eh-o-proer/ "Faz sentido comparar Bolsa Família e PROER?"
+ [9]: http://nodocuments.files.wordpress.com/2010/03/barbosa-nelson-souza-jose-antonio-pereira-de-a-inflexao-do-governo-lula-politica-economica-crescimento-e-distribuicao-de-renda.pdf "1 A INFLEXÃO DO GOVERNO LULA: POLÍTICA ECONÔMICA, CRESCIMENTO E DISTRIBUIÇÃO DE RENDA "
+ [10]: http://g1.globo.com/economia/noticia/2014/11/apos-10-anos-de-queda-numero-de-miseraveis-volta-subir-no-brasil.html "Após 10 anos de queda, número de miseráveis volta a subir no Brasil"
+ [11]: http://g1.globo.com/politica/posse-de-dilma/noticia/2011/01/dilma-e-empossada-presidente-da-republica.html "Dilma toma posse, promete erradicar pobreza e mudar sistema tributário"
+ [12]: https://politi.kov.blog.br/2014/03/16/privatizaque-sobre-aeroportos-teles-e-a-reducao-da-tarifa-energetica/ "Privatizaquê? Sobre aeroportos, teles e a redução da tarifa energética"
+ [13]: http://jcrs.uol.com.br/site/noticia.php?codn=178250 "Crise do setor elétrico já custou R$ 105 bilhões"
+ [14]: http://g1.globo.com/economia/mercados/noticia/2014/11/mercado-ve-menos-crescimento-neste-ano-e-alta-maior-do-juro-em-2015.html "Mercado vê menos crescimento neste ano e alta maior do juro em 2015"
+ [15]: http://maovisivel.blogspot.com.br/2014/10/ovo-por-carne.html "Ovo por carne"
+ [16]: http://mansueto.wordpress.com/2014/11/01/resultado-primario-do-governo-central-pior-resultado-desde-1991/ "Resultado Primário do Governo Central: Pior resultado desde 1991"
+ [17]: http://economia.uol.com.br/noticias/redacao/2014/08/29/importante-no-pib-investimento-de-empresas-recua-pelo-4-trimestre-seguido.htm "Importante no PIB, investimento de empresas recua pelo 4º trimestre seguido"
+ [18]: http://www.youtube.com/watch?v=7VK-6YENOvs "Balanço do governo Dilma com André Singer e Marcos Nobre"
+ [19]: https://politi.kov.blog.br/2013/06/12/discussoes-sobre-a-petrobras/ "Discussões sobre a Petrobrás"
+ [20]: http://en.wikipedia.org/wiki/Phillips_curve "Phillips curve"
+ [21]: http://www.idsbrasil.net
